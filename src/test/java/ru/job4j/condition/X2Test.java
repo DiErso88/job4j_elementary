@@ -18,7 +18,6 @@ public class X2Test {
     }
 
     public void whenA1B1C1X1Then3() {
-        /* Входные параметра. Их будет 4 для данного случая*/
         int a = 1;
         int b = 1;
         int c = 1;
@@ -29,7 +28,6 @@ public class X2Test {
     }
 
     public void whenA0B1C1X1Then2() {
-        /* Входные параметра. Их будет 4 для данного случая*/
         int a = 0;
         int b = 1;
         int c = 1;
@@ -40,7 +38,6 @@ public class X2Test {
     }
 
     public void whenA1B1C0X1Then2() {
-        /* Входные параметра. Их будет 4 для данного случая*/
         int a = 1;
         int b = 1;
         int c = 0;
@@ -51,7 +48,6 @@ public class X2Test {
     }
 
     public void whenA1B1C1X0Then1() {
-        /* Входные параметра. Их будет 4 для данного случая*/
         int a = 1;
         int b = 1;
         int c = 1;
