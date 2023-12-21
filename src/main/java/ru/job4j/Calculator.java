@@ -7,6 +7,10 @@ public class Calculator {
         int two = 2;
         int result = one + two;
         System.out.println(result);
+        one = 10;
+        two = 11;
+        result = one + two;
+        System.out.println(result);
 
         int six = 6;
         int four = 4;
